@@ -1,5 +1,4 @@
 # Production-Yield
-# Manufacturing-Defects
 
 ### Summary and Recommendations
 
